@@ -1,4 +1,4 @@
 # railroad-economics
  
 Testing the Image
-[Image]('Images/fig1.html')
+[Image]('Images/productivity1.html')
